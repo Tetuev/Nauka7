@@ -1,0 +1,13 @@
+C:\Users\Roman\source\repos\Nauka7\Nauka7\bin\Debug\Table.mdb
+C:\Users\Roman\source\repos\Nauka7\Nauka7\bin\Debug\Nauka7.exe.config
+C:\Users\Roman\source\repos\Nauka7\Nauka7\bin\Debug\Nauka7.exe
+C:\Users\Roman\source\repos\Nauka7\Nauka7\bin\Debug\Nauka7.pdb
+C:\Users\Roman\source\repos\Nauka7\Nauka7\obj\Debug\Nauka7.csprojAssemblyReference.cache
+C:\Users\Roman\source\repos\Nauka7\Nauka7\obj\Debug\Nauka7.Form1.resources
+C:\Users\Roman\source\repos\Nauka7\Nauka7\obj\Debug\Nauka7.Properties.Resources.resources
+C:\Users\Roman\source\repos\Nauka7\Nauka7\obj\Debug\Nauka7.csproj.GenerateResource.cache
+C:\Users\Roman\source\repos\Nauka7\Nauka7\obj\Debug\Nauka7.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\Nauka7\Nauka7\obj\Debug\Nauka7.exe
+C:\Users\Roman\source\repos\Nauka7\Nauka7\obj\Debug\Nauka7.pdb
+C:\Users\Roman\source\repos\Nauka7\Nauka7\obj\Debug\Nauka7.Form2.resources
+C:\Users\Roman\source\repos\Nauka7\Nauka7\obj\Debug\Nauka7.Form3.resources
